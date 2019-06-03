@@ -64,7 +64,7 @@ var orm = {
             cb(result);
         });
     },
-    // update row of data. objColVals should be in format {burger_name: Bacon Cheese, devoured: false}
+    // update row of data
     updateOne: function(table, objColVals, condition, cb) {
         var queryString = "UPDATE " + table;
 
