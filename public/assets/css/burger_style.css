@@ -1,0 +1,19 @@
+body {
+    background-image: url("../img/burgerbackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin:0;
+}
+
+#jumbo-header {
+    text-align: center;
+}
+
+.devoured-container {
+    background:rgba(255,255,255, 0.7);
+}
+
+.to-eat-container {
+    background:rgba(255,255,255, 0.7);
+}
