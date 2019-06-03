@@ -8,10 +8,18 @@ This app allows the user to add any burger to the connected MySQL database, cons
 
 ## How to get started:
 To run burger-app locally, clone this repository
-```git clone git@github.com:wneek018/burger-app.git```
+```
+git clone git@github.com:wneek018/burger-app.git
+```
 Navigate to the cloned repository, and run npm install
-```npm install```
+```
+npm install
+```
 When all the necessary packages have been installed, run the burger-app locally
-```node server.js```
+```
+node server.js
+```
 Navigate to your browser and open burger-app on port 8080 at
-```http://localhost:8080```
+```
+http://localhost:8080
+```
